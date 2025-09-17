@@ -1,7 +1,6 @@
 # Nombre del proyecto
 
-Un breve párrafo que describa la página. Por ejemplo:
-"Una landing page moderna y dinámica que muestra los videos recientes de mi canal de YouTube favorito, usando la API de YouTube para obtener las miniaturas."
+Una landing page moderna y dinámica que muestra los videos recientes de mi canal de YouTube favorito, usando la API de YouTube para obtener las miniaturas.
 
 ---
 
