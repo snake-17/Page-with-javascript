@@ -1,0 +1,23 @@
+{
+  "name": "page-with-javascript",
+  "version": "1.0.0",
+  "description": "this is a page where i uses to apis to show videos from youtube",
+  "homepage": "https://github.com/snake-17/Page-with-javascript#readme",
+  "bugs": {
+    "url": "https://github.com/snake-17/Page-with-javascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snake-17/Page-with-javascript.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}

@@ -1,0 +1,11 @@
+# Directorio de dependencias
+node_modules/
+
+# Logs de NPM
+npm-debug.log
+npm-debug.log.*
+.npm
+
+# Archivos de entorno y configuración
+.env
+.DS_Store
